@@ -109,9 +109,8 @@ Leadership, stress resistance, problem-solving, creative approach, quick learnin
 &ensp;
 
 # ✉️ Connect with me
-
-![Email](https://img.shields.io/badge/Email-Click-blueviolet?logo=gmail&style=for-the-badge&link=https://d.krivushkina@gmail.com)
-![Telegram](https://img.shields.io/badge/Telegram-Click-blueviolet?logo=telegram&style=for-the-badge&link=https://t.me/dashkrv)
+[![Email](https://img.shields.io/badge/Email-Click-blueviolet?logo=gmail&style=for-the-badge&link=https://d.krivushkina@gmail.com)](https://d.krivushkina@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Click-blueviolet?logo=telegram&style=for-the-badge&link=https://t.me/dashkrv)](https://t.me/dashkrv)
 ![Phone](https://img.shields.io/badge/Phone-+375259139843-blueviolet?&style=for-the-badge)
 
 <img src="CatGif.gif" width="400" height="304"/>

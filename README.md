@@ -7,10 +7,10 @@ I'm Daria, a young and creative Junior Unity Developer from Belarus 🇧🇾. Th
 
 Want to know more about me? *=Check my social media:=*
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blueviolet?logo=linkedin&style=for-the-badge&link=https://www.linkedin.com/in/дарья-кривушкина-3b31ab246/)
-![Telegram](https://img.shields.io/badge/Telegram-Ru_Channel-blueviolet?logo=telegram&style=for-the-badge&link=https://t.me/dkrivush)
-![Youtube](https://img.shields.io/badge/Youtube-Ru_Videos-blueviolet?logo=youtube&style=for-the-badge&link=https://www.youtube.com/channel/UC1LQPG64CmNDyv7Q5k931AQ)
-![Instagram](https://img.shields.io/badge/Instagram-My_Life-blueviolet?logo=Instagram&style=for-the-badge&link=https://www.instagram.com/dashkrv/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blueviolet?logo=linkedin&style=for-the-badge&link=https://www.linkedin.com/in/дарья-кривушкина-3b31ab246/)](https://www.linkedin.com/in/дарья-кривушкина-3b31ab246/)
+[![Telegram](https://img.shields.io/badge/Telegram-Ru_Channel-blueviolet?logo=telegram&style=for-the-badge&link=https://t.me/dkrivush)](https://t.me/dkrivush)
+[![Youtube](https://img.shields.io/badge/Youtube-Ru_Videos-blueviolet?logo=youtube&style=for-the-badge&link=https://www.youtube.com/channel/UC1LQPG64CmNDyv7Q5k931AQ)](https://www.youtube.com/channel/UC1LQPG64CmNDyv7Q5k931AQ)
+[![Instagram](https://img.shields.io/badge/Instagram-My_Life-blueviolet?logo=Instagram&style=for-the-badge&link=https://www.instagram.com/dashkrv/)](https://www.instagram.com/dashkrv/)
 
 <img src="CatGif_2.gif" width="50" height="50"/>
 
@@ -22,14 +22,14 @@ To be added soon.
 &ensp;
 
 # 💻 See the code
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daridakr&repo=helix-jump&theme=tokyonight&text_color=FFFFFF&title_color=d315e3)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daridakr&repo=helix-jump&theme=tokyonight&text_color=FFFFFF&title_color=d315e3)](https://github.com/daridakr/helix-jump)
 
 &ensp;
 
 # 🎇 My best projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daridakr&repo=progguru&theme=tokyonight&text_color=FFFFFF&title_color=d315e3)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daridakr&repo=progguru&theme=tokyonight&text_color=FFFFFF&title_color=d315e3)](https://github.com/daridakr/progguru)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daridakr&repo=Website-For-Crowdfunding-Campaigns&theme=tokyonight&text_color=FFFFFF&title_color=d315e3)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daridakr&repo=Website-For-Crowdfunding-Campaigns&theme=tokyonight&text_color=FFFFFF&title_color=d315e3)](https://github.com/daridakr/Website-For-Crowdfunding-Campaigns)
 
 &ensp;
 
